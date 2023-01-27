@@ -1,0 +1,19 @@
+body {
+    background:#ede47b;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.copy_right_footer {
+font-size:18px;
+text-align:center;
+bottom:0;
+position:fixed;
+width:100%;
+}
+
+.header_div{
+    background:whitesmoke;
+    color:#faad73;
+    
+}
+
